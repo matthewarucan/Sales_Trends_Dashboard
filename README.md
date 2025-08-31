@@ -10,4 +10,4 @@ Created an interactive Tableau dashboard to explore seasonal sales trends from m
 
 This dashboard empowers quick diagnosis of underperforming periods (like Q4) and supports strategy development around free shipping, category prioritization, and holiday event planning.
 
-![]assets/Dashboard.png
+![](assets/Dashboard.png)
