@@ -10,6 +10,6 @@ Created an interactive Tableau dashboard to explore seasonal sales trends from m
 
 This dashboard empowers quick diagnosis of underperforming periods (like Q4) and supports strategy development around free shipping, category prioritization, and holiday event planning.
 
-### [📊 Sales Trends Dashboard (View Interactive)](https://public.tableau.com/app/profile/matthew.arucan/viz/Sales_Trends_Dashboard_17450293000150/Dashboard1)
+### [📊(View Interactive)](https://public.tableau.com/app/profile/matthew.arucan/viz/Sales_Trends_Dashboard_17450293000150/Dashboard1)
 
 ![Dashboard Preview](assets/Dashboard.png)
