@@ -12,4 +12,4 @@ This dashboard empowers quick diagnosis of underperforming periods (like Q4) and
 
 ### [📊 Sales Trends Dashboard (View Interactive)](https://public.tableau.com/app/profile/matthew.arucan/viz/Sales_Trends_Dashboard_17450293000150/Dashboard1)
 
-![Sales Trends Dashboard Preview](assets/Dashboard.png)
+![Dashboard Preview](assets/Dashboard.png)
